@@ -8,6 +8,7 @@ Rich Discord MC Presence
  - Uses `libdiscord-rpc.so` beside the exectuable
  - No Discord user token needed
  - Uses QT & Ubuntu / Debain packages
+ - English US Language
 # Reporting
 Reports the presence trough an app ID.
 # License 
